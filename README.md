@@ -1,2 +1,2 @@
 # powerbi-academic-performance-dashboard
-Interactive Academic Performance Dashboard built with Power BI.
+Interactive Power BI dashboard for monitoring academic performance, grade trends, department comparisons, and time-based analytics.
